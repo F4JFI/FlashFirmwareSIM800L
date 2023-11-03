@@ -1,0 +1,7 @@
+AT+GMR
+AT+IPR=115200 // changer de baud
+AT+IPR?
+AT&W
+AT+CFUN=1,1 // Reboot
+AT+GMR
+AT+IPR?
