@@ -5,3 +5,11 @@ AT&W
 AT+CFUN=1,1 // Reboot
 AT+GMR
 AT+IPR?
+
+
+nb : pour le cas du SIM800L, deux versions de firmwares existent. Selon la version du module il faut choisir l'une ou l'autre. La commande AT+GMR retourne la version du firmware dans le module :
+n- 1308B0XSIM800L16 = mettre la version de firmware disponible sur le site SIMCOM
+n- 1418B0XSIM800L24 = mettre la version de firmware suivante :1418B05SIM800L24
+
+https://circuitdigest.com/microcontroller-projects/interfacing-sim800l-module-with-esp32
+
