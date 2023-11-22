@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sylvain</h1>
-<h3 align="center">A passionate maker from France</h3>
+<h3 align="center">A passionate French Maker</h3>
 <h3 align="center">Flash Firmware SIM800L - flashage du firmware par la liaison série du module (RX / TX)</h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
